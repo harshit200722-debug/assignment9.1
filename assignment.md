@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-9.1.md
+Assignment 9.1 — Convert a Desktop Page into a Mobile-First Layout[cite: 41]
+What to build: Make an existing desktop-only webpage responsive[cite: 41].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Open the dashboard or photo gallery project from Week 8[cite: 41].
+2. Verify the viewport meta tag in the HTML `<head>`[cite: 41].
+3. Write CSS for mobile screens first[cite: 41].
+4. Improve tablet and desktop layouts using media queries[cite: 41].
+5. Add at least 2 breakpoints[cite: 41].
+6. Test on different screen sizes using Chrome DevTools' Device Mode[cite: 41].
+7. Fix horizontal overflow and overlapping elements[cite: 41].
